@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Unit Converter(Practice)</string>
+    <string name="welcome">Units converter</string>
+    <string-array name="spinner_elements">
+        <item>Select Conversion</item>
+        <item>mL to L</item>
+    <item>miles to inches</item>
+    <item>Celsius to Kelvin</item></string-array>
+    <string name="calculate">Calculate</string>
+</resources>
